@@ -138,6 +138,11 @@ header {
     opacity: 90%;
     margin: 1em;
   }
+  #main-header {
+    margin: 0em;
+    border: 0px;
+    padding-bottom: 1em;
+  }
 }
 @media (max-width: 576px) {
   .textareaElement {
