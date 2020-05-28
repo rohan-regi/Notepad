@@ -20,10 +20,10 @@ header {
 
 #newNote {
   color: white;
-  font-size: 2.5rem;
+  font-size: 2 rem;
   border-radius: 6px;
-  padding-bottom: 0.8rem;
-  margin-bottom: 1.3rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
   opacity: 95%;
 }
 
@@ -153,5 +153,14 @@ header {
     grid-gap: 1em;
     justify-items: stretch;
     align-items: stretch;
+  }
+  #newNote {
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    padding-top: 0.3em;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    opacity: 95%;
   }
 }
