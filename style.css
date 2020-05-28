@@ -163,4 +163,9 @@ header {
     margin-bottom: 1rem;
     opacity: 95%;
   }
+  #main-header {
+    margin: 0em;
+    border: 0px;
+    padding-bottom: 0.7em;
+  }
 }
